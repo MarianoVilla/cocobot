@@ -1,4 +1,5 @@
 import 'dotenv/config';
+import { InstallGlobalCommands } from './utils.js';
 
 // Simple co-command
 const CO_COMMAND = {
