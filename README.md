@@ -1,5 +1,7 @@
 # Cocobot!
 
+![Cocobot](https://github.com/MarianoVilla/cocobot/blob/master/_4a7558cd-9f3d-4aca-83c8-6d57444f95f7.jpg "Title")
+
 ## To run locally
 
 This is an absolute rip-off of Discord's [Getting started](https://discord.com/developers/docs/getting-started) app. If you have no experience with Discord bots, refer to that doc for the basics, like creating a bot and such.
